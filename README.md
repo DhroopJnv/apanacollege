@@ -1,2 +1,3 @@
-# apanacollege
-this is my first repository
+# apanacollege-Demo
+this is my first Git repository.
+Author-Dhroop Gupta
